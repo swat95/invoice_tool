@@ -1,13 +1,13 @@
 # Browser based Invoicing Application.
- *View List of Invoices
- *Create a new Invoice
- *Capture Customer Data on the Invoice
- *Capture values like Product Name, Selling Price and Quantity on multiple rows.
- *Add multiple rows.
- *Capture Tax % and Discount %
- *Calculate Subtotal, Tax Amount, Discount Amount and Grand Total
- *Save Invoice
- *List saved Invoices to view details.
+ * View List of Invoices
+ * Create a new Invoice
+ * Capture Customer Data on the Invoice
+ * Capture values like Product Name, Selling Price and Quantity on multiple rows.
+ * Add multiple rows.
+ * Capture Tax % and Discount %
+ * Calculate Subtotal, Tax Amount, Discount Amount and Grand Total
+ * Save Invoice
+ * List saved Invoices to view details.
 
 # Getting Started with Create React App
 
