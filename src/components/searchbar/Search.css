@@ -1,0 +1,23 @@
+.search{
+  background-color: "#001a33";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.search input{
+  padding-left: 50px;
+  margin: '10px 10px 10px 10px';
+  color: white;
+}
+.search :focus{
+  outline: none;
+  padding-left: 50px;
+  border: 'none';
+}
+p{
+  margin: 20px;
+  font-size: 10px;
+}
+  

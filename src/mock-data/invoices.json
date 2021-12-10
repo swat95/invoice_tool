@@ -1,0 +1,246 @@
+{
+  "invoices": [
+    {
+      "fullName": "Swathi Subrahmanya",
+      "phoneNumber": "6360105853",
+      "address": "Herrenalber Straße 14",
+      "email": "swathisbhat79@gmail.com",
+      "pinCode": "71034",
+      "tax": 1.25,
+      "discount": 3.65,
+      "subTotal": "465.00",
+      "grandTotal": "453.84",
+      "items": [
+        {
+          "itemName": "Sweet",
+          "quantity": 10,
+          "price": 12.5
+        },
+        {
+          "itemName": "Pizza",
+          "quantity": 1,
+          "price": 150
+        },
+        {
+          "itemName": "Ice Cream",
+          "quantity": 2,
+          "price": 45
+        },
+        {
+          "itemName": "Burger",
+          "quantity": 1,
+          "price": 100
+        }
+      ],
+      "id": 1
+    },
+    {
+      "fullName": "Sumanth Korikkar",
+      "phoneNumber": "9480733228",
+      "address": "Herrenalber Str.14",
+      "email": "sumadhuracool@gmail.com",
+      "pinCode": "71034",
+      "tax": 1,
+      "discount": 0,
+      "subTotal": "453.75",
+      "grandTotal": "458.29",
+      "items": [
+        {
+          "itemName": "Ice Cream",
+          "quantity": 5,
+          "price": 50
+        },
+        {
+          "itemName": "Falafel",
+          "quantity": 1,
+          "price": 125
+        },
+        {
+          "itemName": "Sweet",
+          "quantity": 5,
+          "price": 15.75
+        }
+      ],
+      "id": 2
+    },
+    {
+      "fullName": "Krishna Prasad",
+      "phoneNumber": "4527486905",
+      "address": "",
+      "email": "krishnaprasad21p@gmail.com",
+      "pinCode": "",
+      "tax": 2.25,
+      "discount": 1.25,
+      "subTotal": "1093.50",
+      "grandTotal": "1104.43",
+      "items": [
+        {
+          "itemName": "Maggi",
+          "quantity": 1,
+          "price": 75
+        },
+        {
+          "itemName": "Pizza",
+          "quantity": 2,
+          "price": 200
+        },
+        {
+          "itemName": "Ice Cream",
+          "quantity": 5,
+          "price": 45
+        },
+        {
+          "itemName": "Burger",
+          "quantity": 1,
+          "price": 185
+        },
+        {
+          "itemName": "Sweet",
+          "quantity": 10,
+          "price": 20.85
+        }
+      ],
+      "id": 3
+    },
+    {
+      "fullName": "Madhura Bhat",
+      "phoneNumber": "3461859703",
+      "address": "",
+      "email": "madhurabhat88@gmail.com",
+      "pinCode": "",
+      "tax": 1.25,
+      "discount": 2.45,
+      "subTotal": "1400.00",
+      "grandTotal": "1383.20",
+      "items": [
+        {
+          "itemName": "Pizza",
+          "quantity": 2,
+          "price": 350
+        },
+        {
+          "itemName": "Ice-Cream",
+          "quantity": 4,
+          "price": 50
+        },
+        {
+          "itemName": "Sweet",
+          "quantity": 10,
+          "price": 50
+        }
+      ],
+      "id": 4
+    },
+    {
+      "fullName": "Gauthami Nayak",
+      "phoneNumber": "4267788234",
+      "address": "Honnavara",
+      "email": "gautaminayak17@gmail.com",
+      "pinCode": "",
+      "tax": 1.85,
+      "discount": 2.35,
+      "subTotal": "1177.00",
+      "grandTotal": "1171.12",
+      "items": [
+        {
+          "itemName": "Sweet",
+          "quantity": 4,
+          "price": 50.5
+        },
+        {
+          "itemName": "Pizza",
+          "quantity": 3,
+          "price": 250
+        },
+        {
+          "itemName": "Ice Cream",
+          "quantity": 5,
+          "price": 45
+        }
+      ],
+      "id": 5
+    },
+    {
+      "fullName": "Sushmitha Holla",
+      "phoneNumber": "3378345297",
+      "address": "Udupi",
+      "email": "sushmithaholla95@gmail.com",
+      "pinCode": "",
+      "tax": 2.95,
+      "discount": 3.99,
+      "subTotal": "1010.00",
+      "grandTotal": "999.50",
+      "items": [
+        {
+          "itemName": "Sweet",
+          "quantity": 10,
+          "price": 35
+        },
+        {
+          "itemName": "Pizza",
+          "quantity": 2,
+          "price": 200
+        },
+        {
+          "itemName": "Ice Cream",
+          "quantity": 4,
+          "price": 65
+        }
+      ],
+      "id": 6
+    },
+    {
+      "fullName": "Shreya",
+      "phoneNumber": "567567673",
+      "address": "",
+      "email": "shreya@gmail.com",
+      "pinCode": "",
+      "tax": 2.45,
+      "discount": 3.65,
+      "subTotal": "1500.00",
+      "grandTotal": "1482.00",
+      "items": [
+        {
+          "itemName": "Pizza",
+          "quantity": 4,
+          "price": 250
+        },
+        {
+          "itemName": "Ice-Cream",
+          "quantity": 5,
+          "price": 100
+        }
+      ],
+      "id": 7
+    },
+    {
+      "fullName": "Sujata Moger",
+      "phoneNumber": "3312452345",
+      "address": "Bhatkal",
+      "email": "sujatamoger@gmail.com",
+      "pinCode": "",
+      "tax": 0,
+      "discount": 0,
+      "subTotal": "720.00",
+      "grandTotal": "720.00",
+      "items": [
+        {
+          "itemName": "Pizza",
+          "quantity": 1,
+          "price": 350
+        },
+        {
+          "itemName": "Falafel",
+          "quantity": 1,
+          "price": 300
+        },
+        {
+          "itemName": "Sweet",
+          "quantity": 2,
+          "price": 35
+        }
+      ],
+      "id": 8
+    }
+  ]
+}
